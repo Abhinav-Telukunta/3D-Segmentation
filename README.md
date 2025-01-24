@@ -43,7 +43,7 @@ The segmentation performance was evaluated using both qualitative and quantitati
 | CIS U-Net   | **0.695**                   | 4.508                       | 23.286                        |
 
 #### Qualitative Results
-
+<img width="923" alt="qualitative_results" src="https://github.com/user-attachments/assets/6db3692a-5070-4057-9449-4bc65b8c7761" />
 
 CIS U-Net demonstrated the highest overall performance in terms of the Dice coefficient, achieving accurate segmentation of complex aortic structures. However, V-Net exhibited a better balance of surface and Hausdorff distances.
 
