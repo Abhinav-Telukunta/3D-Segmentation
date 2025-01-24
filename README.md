@@ -34,7 +34,7 @@ The segmentation performance was evaluated using both qualitative and quantitati
 
 ### Performance Summary
 
-## Quantitative Results
+#### Quantitative Results
 | Model       | Mean Dice Coefficient (MDC) | Mean Surface Distance (MSD) | Mean Hausdorff Distance (MHD) |
 |-------------|-----------------------------|-----------------------------|-------------------------------|
 | U-Net       | 0.644                       | 4.333                       | 17.256                        |
@@ -42,7 +42,7 @@ The segmentation performance was evaluated using both qualitative and quantitati
 | Swin UNETR  | 0.659                       | 7.832                       | 35.449                        |
 | CIS U-Net   | **0.695**                   | 4.508                       | 23.286                        |
 
-## Qualitative Results
+#### Qualitative Results
 
 CIS U-Net demonstrated the highest overall performance in terms of the Dice coefficient, achieving accurate segmentation of complex aortic structures. However, V-Net exhibited a better balance of surface and Hausdorff distances.
 
